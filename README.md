@@ -2,4 +2,4 @@
 
 ---
 
-<a rel="me" href="https://mastodon.social/@supermamon"></a>
+<a rel="me" href="https://mastodon.social/@supermamon">@supermamon@mastodon.social</a>
